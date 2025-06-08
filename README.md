@@ -10,7 +10,7 @@ Welcome to **CryptoVerse**, a stunning, responsive frontend clone inspired by mo
 
 Take a look at the interface in action:
 
-![CryptoVerse Demo](./‎images/WhatsAppVideo2025-06-08um13.29.06_266f0fb1-ezgif.com-video-to-gif-converter.gif)
+![CryptoVerse Demo](‎images/WhatsAppVideo2025-06-08um13.29.06_266f0fb1-ezgif.com-video-to-gif-converter.gif)
 
 ---
 
