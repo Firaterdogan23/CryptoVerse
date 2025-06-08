@@ -10,7 +10,7 @@ Welcome to **CryptoVerse**, a stunning, responsive frontend clone inspired by mo
 
 Take a look at the interface in action:
 
-![CryptoVerse Demo](https://github.com/Firaterdogan23/CryptoVerse/blob/main/images/cryptoverse-demo.gif?raw=true)
+![CryptoVerse Demo](https://github.com/Firaterdogan23/CryptoVerse/blob/cryptoverse-demo.gif?raw=true)
 
 
 
